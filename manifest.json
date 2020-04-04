@@ -1,0 +1,18 @@
+{
+    "format_version": 2,
+    "header": {
+      "description": "Template Resource Pack",
+      "name": "Template Resource Pack",
+      "uuid": "b5acb48b-a578-4840-8250-b844a880a0c6",
+      "version": [0, 0, 1],
+      "min_engine_version": [1, 13, 0]
+    },
+    "modules": [
+      {
+        "description": "Template Resource Pack",
+        "type": "resources",
+        "uuid": "20a1970a-9695-47d8-acec-614b206624e0",
+        "version": [0, 0, 1]
+      }
+    ]
+  }
